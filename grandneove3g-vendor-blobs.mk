@@ -31,14 +31,6 @@ PROPRIETARY_FILES := \
 	bin/refnotify \
 	bin/rild \
 	etc/gps.conf \
-	etc/wifi/bcmdhd_apsta.bin \
-	etc/wifi/bcmdhd_mfg.bin \
-	etc/wifi/bcmdhd_sta.bin \
-	etc/wifi/nvram_mfg.txt \
-	etc/wifi/nvram_net.txt \
-	etc/wifi/p2p_supplicant_overlay.conf \
-	etc/wifi/wpa_supplicant_overlay.conf \
-	etc/wifi/wpa_supplicant.conf \
 	lib/egl/libGLES_mali.so \
 	lib/hw/gps.default.so \
 	lib/hw/gralloc.sc8830.so \
