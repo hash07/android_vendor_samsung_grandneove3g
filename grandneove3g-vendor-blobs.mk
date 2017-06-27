@@ -32,6 +32,7 @@ PROPRIETARY_FILES := \
 	bin/rild \
 	etc/gps.conf \
 	lib/egl/libGLES_mali.so \
+	lib/hw/camera.sc8830 \
 	lib/hw/gps.default.so \
 	lib/hw/gralloc.sc8830.so \
 	lib/hw/sensors.sc8830.so \
@@ -55,7 +56,7 @@ PROPRIETARY_FILES := \
 	lib/libsecril-client.so \
 	lib/libsprd_agps_agent.so \
 	lib/libuvdenoise.so \
-	vendor/firmware/BCM4343A0_001.001.034.0056.0197_M_ORC_Core3.hcd \
+	vendor/firmware/BCM43430A1_001.002.009.0013.0018_ORC_GrandNeo_VE.hcd \
 	vendor/firmware/vbc_eq \
 	vendor/lib/libbt-vendor.so \
 
