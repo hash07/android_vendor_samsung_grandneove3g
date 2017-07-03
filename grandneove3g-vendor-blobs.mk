@@ -32,7 +32,7 @@ PROPRIETARY_FILES := \
 	bin/rild \
 	etc/gps.conf \
 	lib/egl/libGLES_mali.so \
-	lib/hw/camera.sc8830 \
+	lib/hw/camera.sc8830.so \
 	lib/hw/gps.default.so \
 	lib/hw/gralloc.sc8830.so \
 	lib/hw/sensors.sc8830.so \
